@@ -1,0 +1,16 @@
+/* Sidebar.css */
+.sidebar {
+ 
+    overflow-y: auto;
+  }
+  
+  /* Sidebar.css */
+.button-open {
+  left: 16px; /* Adjust this value as needed */
+ 
+}
+
+.button-closed {
+  left: 260px; /* Adjust this value to match the sidebar's width */
+  
+}
